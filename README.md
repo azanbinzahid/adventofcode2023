@@ -5,6 +5,7 @@ https://adventofcode.com/2023
 ```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+  8   03:21:49  21507      0   04:15:59  14912      0
   7   07:14:08  29018      0   07:52:14  24390      0
   6   01:34:16  15243      0   01:38:23  14493      0
   5   02:17:06  14378      0   05:21:34  11015      0
@@ -13,3 +14,6 @@ Day       Time   Rank  Score       Time   Rank  Score
   2   10:01:06  59194      0   10:06:34  55402      0
   1   00:32:49  10386      0   01:17:12   8321      0
 ```
+
+
+> I am in CET timezone and therfore unable to start at 0600 CET sharp. Usually starts coding while travelling for work or after good breakfast. 
